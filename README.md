@@ -16,6 +16,7 @@ cd construction-safety-dataset
 
 # Project Structure
  📦construction-safety-dataset<br>
+ ┣ 📜README.md<br>
  ┣ 📜data.zip<br>
  ┃ ┣ 📂test<br>
  ┃ ┣ 📂train<br>
