@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>ppe_0424_jpg.rf.b19dcac098599d7029f854f4c2e10df5.jpg</filename>
+	<path>ppe_0424_jpg.rf.b19dcac098599d7029f854f4c2e10df5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>102</xmin>
+			<xmax>220</xmax>
+			<ymin>36</ymin>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
