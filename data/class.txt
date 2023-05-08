@@ -1,5 +1,0 @@
-helmet
-no-helmet
-no-vest
-person
-vest
