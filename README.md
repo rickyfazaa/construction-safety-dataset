@@ -1,8 +1,12 @@
 # <a style="font-family:cursive">Construction Safety Dataset (42.5 MB)</a>
 <p align="justify">Berisi folder train, test, & valid sebagai dataset object detection Alat Pelindung Diri (APD) seorang Konstruktor</p>
 
+
 # This dataset was originally created by [Anonymous]
 Originally Dataset <b>[Construction Safety](https://universe.roboflow.com/roboflow-100/construction-safety-gsnvb)</b> in <b>[universe.robotflow.com](https://universe.roboflow.com/roboflow-100/construction-safety-gsnvb)</b>
+
+# WARNING: THE DATA HAS BEEN PREPROCESSED!
+image preprocessing to: **256x256**
 
 # To Clone this Repo
 - **Clone repository**
@@ -17,10 +21,20 @@ cd construction-safety-dataset
 # Project Structure
  📦construction-safety-dataset<br>
  ┣ 📜README.md<br>
- ┣ 📜data.zip<br>
- ┃ ┣ 📂test<br>
- ┃ ┣ 📂train<br>
- ┗ ┗ 📂valid<br>
+ ┗  📜construction-safety-dataset.zip<br>
+
+# INSIDE 📜construction-safety-dataset.zip
+ 📦construction-safety-dataset.zip<br>
+ ┣ 📂test<br>
+ ┃ ┣ 📂images<br>
+ ┃ ┗ 📂labels<br>
+ ┣ 📂train<br>
+ ┃ ┣ 📂images<br>
+ ┃ ┗ 📂labels<br>
+ ┣ 📂valid<br>
+ ┃ ┣ 📂images<br>
+ ┃ ┗ 📂labels<br>
+ ┗ 📜data.yaml<br>
 
 # Mavericks Team
 <pre style="font-family:verdana">
