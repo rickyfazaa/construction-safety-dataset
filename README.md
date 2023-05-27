@@ -21,10 +21,10 @@ cd construction-safety-dataset
 # Project Structure
  📦construction-safety-dataset<br>
  ┣ 📜README.md<br>
- ┗  📜data-256-yolo.zip<br>
+ ┗  📜data-256-yolo-mavericks.zip<br>
 
-# INSIDE 📜data-256-yolo.zip
- 📦data-256-yolo.zip<br>
+# INSIDE 📜data-256-yolo-mavericks.zip
+ 📦data-256-yolo-mavericks.zip<br>
  ┣ 📂test<br>
  ┃ ┣ 📂images<br>
  ┃ ┗ 📂labels<br>
